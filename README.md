@@ -1,7 +1,7 @@
 ### Talk on &ldquo;Opportunities in biomedical data science&rdquo;
 
 
-These are slides for a short, informal talk that I will give
+These are slides for a short, informal talk that I gave
 at [Carleton College](https://www.carleton.edu) on 1 Oct 2019.
 
 PDF of slides at [bit.ly/carleton2019](https://bit.ly/carleton2019).
