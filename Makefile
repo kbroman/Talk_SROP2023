@@ -9,4 +9,4 @@ $(STEM).pdf: $(STEM).tex header.tex
 	xelatex $<
 
 web: $(STEM).pdf
-	scp $(STEM).pdf adhara.biostat.wisc.edu:Website/presentations/$(STEM).pdf
+	cp $(STEM).pdf ~/Docs/github_pages/slides/$(STEM).pdf
